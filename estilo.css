@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(234deg,rgb(58, 0, 82), rgb(174, 0, 255));
+    background: #F4F6F6;
     height: 100vh;
     width: 100%;
     font-size: 16px;
@@ -14,7 +14,8 @@ body {
 }
 
 a{
-    color: white;
+    color: #566573;
+    font: bold;
     text-decoration: none;
 }
 
@@ -36,7 +37,7 @@ ul {
     align-items: center;
     height: 60px;
     padding: 20px 0;
-    background: linear-gradient(rgb(3, 3, 3),rgb(70, 0, 136))
+    background: linear-gradient(#D6EAF8,#5DADE2)
 }
 
 /*Contactos, inicio, etc*/
@@ -72,7 +73,7 @@ ul {
 }
 
 .canales img{
-    background: rgb(204, 204, 204);
+    background: #E5E7E9;
     border-radius: 20%;
     margin: 4px;
     width: 120px;
